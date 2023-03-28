@@ -12,7 +12,7 @@ The creation of the SNLI dataset involved human annotation of the sentence pairs
 I experimented with transformer-based models, and more specifically the [cross-encoder/nli-roberta-base](https://huggingface.co/cross-encoder/nli-roberta-base/blame/main/README.md). I fine-tuned pre-trained models on the SNLI dataset using the Hugging Face Transformers library. I also tried different hyperparameters and optimization strategies to improve the performance of my models.
 
 ## Results :outbox_tray:
-My best model achieved an accuracy of 87.3% on the SNLI test. The model also outperformed the state-of-the-art models on the SNLI dataset. I also analyzed the errors made by the model and identified some common patterns.
+My best model achieved an accuracy of 89.2% on the SNLI test. The model also outperformed the state-of-the-art models on the SNLI dataset. I also analyzed the errors made by the model and identified some common patterns.
 
 ## Credits :eyes:
 This work was done as part of a collaborative project with [Pse1234](https://github.com/Pse1234) in this [repository](https://github.com/Pse1234/NLI).
