@@ -16,7 +16,7 @@ My best model achieved an accuracy of 87.3% on the SNLI test. The model also out
 
 ## Credits :eyes:
 This work was done as part of a collaborative project with [Pse1234](https://github.com/Pse1234) in this [repository](https://github.com/Pse1234/NLI).
-You can find our collective report in this [pdf]()
+You can find our collective report in this [pdf](https://github.com/Pse1234/NLI/blob/main/Natural_Language_Inference.pdf)
 
 ## References
 Bowman, S. R., et al. (2015). A large annotated corpus for learning natural language inference. In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP).
